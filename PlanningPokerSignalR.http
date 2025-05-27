@@ -1,0 +1,6 @@
+@PlanningPokerSignalR_HostAddress = http://localhost:5082
+
+GET {{PlanningPokerSignalR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
